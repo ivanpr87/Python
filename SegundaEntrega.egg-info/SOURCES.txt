@@ -1,9 +1,9 @@
 setup.py
+Primer_Entrega/__init__.py
+Primer_Entrega/primerentrega.py
 SegundaEntrega.egg-info/PKG-INFO
 SegundaEntrega.egg-info/SOURCES.txt
 SegundaEntrega.egg-info/dependency_links.txt
 SegundaEntrega.egg-info/top_level.txt
-paginadecompras/__init__.py
-paginadecompras/cliente.py
-primernetrega/__init__.py
-primernetrega/primerentrega.py
+Segunda_Entrega/__init__.py
+Segunda_Entrega/cliente.py
