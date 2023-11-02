@@ -1,4 +1,4 @@
-from paginadecompras.cliente import crear_cliente
+from Segunda_Entrega.cliente import crear_cliente
 
 
 """
